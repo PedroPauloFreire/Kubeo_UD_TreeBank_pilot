@@ -1,0 +1,65 @@
+# text = Yawi oko hãrãwʉi ãino wore kuibi.
+1	Yawi	yawi	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	oko	oko	NOUN	_	Animacy=Inan|Number=Sing	3	nmod	_	_
+3	hãrãwʉi	hãrãwʉ	NOUN	_	Animacy=Inan|Case=Loc	5	obl	_	_
+4	ãino	ãino	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	_
+5	wore	wo	VERB	_	VerbForm=Vnoun	0	root	_	_
+6	kuibi	kui	AUX	_	Gender=Masc|Number=Sing|Person=3	5	aux	_	_
+
+# text = Keteiyede, yawi ẽmeni dâmeða.
+1	Keteiyede	kete	ADV	_	Case=Loc|Foc=Yes|VerbForm=Vnoun	4	advmod	_	_
+2	yawi	yawi	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ẽmeni	ẽme	NOUN	_	Case=Loc	4	obl	_	_
+4	dâmeða	dâ	VERB	_	Evident=Rpt|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Yawimi yawi-namene boarĩ ãmi
+1	Yawimi	yawi	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	yawi-namene	yawi#nama	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+3	boarĩ	boa	VERB	_	VerbForm=Conv	4	advcl	_	_
+4	ãmi	ã	VERB	_	Gender=Masc|Number=Sing|Person=3	0	root	_	_
+
+# text = Kuina hãrãwʉ kawa kawarõi wʉrĩ dârayʉ bateameða.
+1	Kuina	kuina	DET	_	Definite=Ind|PronType=Art	2	det	_	_
+2	hãrãwʉ	hãrãwʉ	NOUN	_	Animacy=Inan|Number=Sing	6	obl	_	_
+3	kawa	kawa	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	kawarõi	kawa	NOUN	_	Animacy=Inan|Case=Loc	6	obl	_	_
+5	wʉrĩ	wʉ	VERB	_	VerbForm=Conv	6	advcl	_	_
+6	dârayʉ	dâ	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+7	bateameða	bate	AUX	_	Evident=Rpt|Gender=Masc|Number=Sing|Person=3|Tense=Past	6	aux	_	_
+
+# text = Buei-hʉeðokʉ bueiñamita bueyʉbe.
+1	Buei-hʉeðokʉ	bue#hʉeðo	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	bueiñamita	bue	NOUN	_	Case=Loc|Foc=Yes|VerbForm=Vnoun	3	obl	_	_
+3	bueyʉbe	bue	VERB	_	Aspect=Prog|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+
+# text = Hiahĩyare pẽpẽni hũare hakemawʉ̃.
+1	Hiahĩyare	hiahĩ	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	2	obj	_	_
+2	pẽpẽni	pẽpẽ	VERB	_	VerbForm=Conv	4	advcl	_	_
+3	hũare	hũa	NOUN	_	Animacy=Inan|Case=Acc	4	obj	_	_
+4	hakemawʉ̃	ha	VERB	_	Evident=Assum|Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Hawede kʉtekemawʉ çiaidʉ aru meakʉ.
+1	Hawede	hawe	ADV	_	Tense=Past	2	advmod	_	_
+2	kʉtekemawʉ	kɨ	VERB	_	Evident=Assum|Number=Plur|Person=3|Tense=Past	0	root	_	_
+3	çiaidʉ	çiaidʉ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	aru	aru	CCONJ	_	_	5	cc	_	_
+5	meakʉ	meakʉ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+
+# text = Hawede hʉhʉ́we bateameða ihibore kʉwakʉ.
+1	Hawede	hawe	ADV	_	Tense=Past	5	advmod	_	_
+2	hʉhʉ́we	hʉhʉ́we	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc	5	nsubj	_	_
+3	bateameða	bate	AUX	_	Evident=Rpt|Gender=Masc|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+4	ihibore	ihibo	NOUN	_	Animacy=Inan|Case=Acc	5	obj	_	_
+5	kʉwakʉ	kʉwa	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# text = Ʉrarʉa hẽiñʉ kʉbede hakemawʉ̃.
+1	Ʉrarʉa	ʉrarʉa	NOUN	_	Animacy=Inan|Number=Sing	4	nsubj	_	_
+2	hẽiñʉ	hẽiñʉ	NOUN	_	Animacy=Anim|Gender=Masc|Number=Sing	3	nmod	_	_
+3	kʉbede	kʉbe	NOUN	_	Animacy=Inan|Case=Obl	4	obl	_	_
+4	hakemawʉ̃	ha	VERB	_	Evident=Assum|Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Koyʉrĩ pinidɨteharã aipe tekemarĩ.
+1	Koyʉrĩ	koyʉ	VERB	_	VerbForm=Conv	2	advcl	_	_
+2	pinidɨteharã	pinidɨte	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+3	aipe	aipe	PRON	_	PronType=Rel	4	nsubj	_	_
+4	tekemarĩ	te	VERB	_	Evident=Assum|Tense=Past|VerbForm=Conv	2	advcl	_	_
